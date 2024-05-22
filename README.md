@@ -11,7 +11,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>  
+  
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 </div>
@@ -20,10 +21,10 @@
 
 <h2 align="center"><b> Projects </b></h3>
 <div align="center">
-  * [Unreal TPS](https://github.com/youwonsock/Unreal_Team_Portfolio)
-  * [DirectX Maptool](https://github.com/youwonsock/DX_Maptool)
-  * [Unity3D Game](https://github.com/youwonsock/AOT_SourceCode)
-  * [Unity2D Game](https://github.com/youwonsock/back-to-the-dungeon-scripts)
+  [Unreal TPS](https://github.com/youwonsock/Unreal_Team_Portfolio)
+  [DirectX Maptool](https://github.com/youwonsock/DX_Maptool)
+  [Unity3D Game](https://github.com/youwonsock/AOT_SourceCode)
+  [Unity2D Game](https://github.com/youwonsock/back-to-the-dungeon-scripts)
 </div>
 </br></br>
 
