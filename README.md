@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%EC%9C%A0%EC%9B%90%EC%84%9D&fontSize=40&fontAlign=88&fontAlignY=40&desc=%EA%B2%8C%EC%9E%84%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8&descAlign=88&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WonSock&fontSize=40&fontAlign=88&fontAlignY=40&desc=Game%20Client%20Programmer&descAlign=88&color=gradient)
 
 ### 사용 기술
 
