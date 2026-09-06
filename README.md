@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WonSock&fontSize=40&fontAlign=88&fontAlignY=40&desc=Game%20Client%20Programmer&descAlign=88&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WonSock&fontSize=40&fontAlign=88&fontAlignY=40&desc=Game%20Programmer&descAlign=88&color=gradient)
 
 ### 사용 기술
 
@@ -19,6 +19,8 @@
 
 </div>
 
+## 게임 프로젝트
+
 | 프로젝트명 | 목적 | 주요 기술 |
 | --- | --- | --- |
 | [DirectX MapTool](https://github.com/youwonsock/portfolio-dx-maptool) | Terrain 편집 및 렌더링 기능을 제공하는 MapTool 개발 | C++, DirectX, HLSL |
@@ -27,6 +29,11 @@
 | [Alone Or Together](https://github.com/youwonsock/portfolio-AOT-source-code) | 3D 멀티플레이 게임의 공통 관리 및 게임플레이 시스템 개발 | C#, Unity |
 | [Network-2D-Game](https://github.com/youwonsock/portfolio-network-2D-game) | 계정·게임 서버를 연동한 네트워크 게임 시스템 개발 | C#, Unity, .NET |
 | [Back to The Dungeon](https://github.com/youwonsock/portfolio-back-to-the-dungeon-scripts) | 2D 플랫폼 슈팅 게임의 핵심 게임플레이 시스템 개발 | C#, Unity |
+
+## 개발 도구 및 생산성 프로젝트
+
+| 프로젝트명 | 목적 | 주요 기술 |
+| --- | --- | --- |
 | [Unity Tool & Editor](https://github.com/youwonsock/tool-unity-editor) | Unity 기능을 재사용 가능한 도구와 샘플로 분리 | C#, Unity |
 | [Unreal Editor Plugin](https://github.com/youwonsock/tool-unreal-plugin) | 반복적인 리소스 작업 자동화를 위한 Unreal 에디터 플러그인 개발 | C++, Unreal Engine |
 | [Custom Agent Loop System](https://github.com/youwonsock/custom-agent-loop-system) | 코딩 에이전트의 단계별 실행과 검증을 자동화하는 오케스트레이터 개발 | TypeScript, VS Code |
