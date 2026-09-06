@@ -7,7 +7,6 @@
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="C%23" src="https://img.shields.io/badge/C%23-39477F.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <br>
 
